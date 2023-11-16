@@ -1,0 +1,13 @@
+{
+    "port": 5000,
+    "db": {
+        "username": "username",
+        "password": "password",
+        "name": "databaseName",
+        "host": "127.0.0.1"
+      },
+      "jwt":{
+        "userSecretKey":"heythisismysecretcode"
+    }
+    }
+    
